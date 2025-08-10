@@ -1,3 +1,9 @@
+/*
+	to use procedure
+	exec bronze.load_bronze
+*/
+
+
 create or alter procedure bronze.load_bronze as
 begin
 	/*
